@@ -48,11 +48,3 @@ puts "内定予想件数は#{result.floor}です"
 
 
 
-  # if shorui.include?(1..9)
-  #   shorui = 5
-  #   shorui = shorui * 0.01
-  # else
-  #   shorui = shorui * 0.1
-  # end
-
-  # puts 5.to_s.include?("1..9")
