@@ -19,3 +19,4 @@ age_input = gets.to_i
 
 animal1 = Animal.new(name_input,age_input)
 animal1.show
+
