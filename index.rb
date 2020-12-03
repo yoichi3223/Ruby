@@ -5,13 +5,12 @@ class Animal2 < Animal
 
 
 def introduce(name,age)
-p "こんにちは#{name}さん"
+p "こんにちは#{name},#{age}さん"
 end
 
 
 
 end
-
 animal2 = Animal2.new("ライオン",29)
 
 animal2.introduce
