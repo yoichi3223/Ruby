@@ -24,7 +24,6 @@ favorite_input = gets
 name_input2 = gets
 age_input2 = gets.to_i
 favorite_input2 = gets
-
 animal1 = Animal.new(name_input,age_input,favorite_input)
 animal2 = Animal.new(name_input2,age_input2,favorite_input2)
 animal1.show
