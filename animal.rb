@@ -35,3 +35,4 @@ animal3 = Animal.new(name_input3,age_input3,favorite_input3)
 animal1.show
 animal2.show
 animal3.show
+p "頑張ろう"
