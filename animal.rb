@@ -36,3 +36,4 @@ animal1.show
 animal2.show
 animal3.show
 p "頑張ろう"
+p "毎日継続"
